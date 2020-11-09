@@ -14,7 +14,7 @@ Basic automation for Instagram random tags/comments using **Python**, **Selenium
 ## What do you need:
 - [Python](http://python.org/downloads/)
 - [Selenium](https://selenium-python.readthedocs.io/installation.html)
-- [ChromeDrive](http://chromedriver.chromium.org)
+- [ChromeDriver](http://chromedriver.chromium.org)
 
 ## General usage
 ### `instaBot.py`
